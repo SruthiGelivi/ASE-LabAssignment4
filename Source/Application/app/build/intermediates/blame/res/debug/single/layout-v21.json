@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/res/merged/debug/menu/menu_login.xml",
+        "source": "/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/src/main/res/menu/menu_login.xml"
+    }
+]

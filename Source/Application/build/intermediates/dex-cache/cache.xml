@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_7e482ecbab5e538475a4dba3da65fe72d4c78e91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_55ee54c6be711419bbbc34f6c2b6bfc4bb9d7c68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_6c7345db08295b854b4f11da1f80ef9516b62ebd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_fc2afb593eb068c3c91446f309384b452ec075bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_fab7fc80bad73bc4f1df9dd8e6e7674567faec82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_c66ac1faba0ed0d23d673a1a41ee083aac23d0bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_af98b78aa8d29603791603bb0f6490aa76490cfe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_7a6628244c99a24ca3c39e761e3058f4c081b9c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_bfbb12207608f1446a167470392361471826cb92/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_9791bec14d919ad41f56c0c2eb7989ede6293cb7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_3732bd656c4965af523e3c488a679339c33913bc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_64d76f87b49a47a54c0b2842ec1e3cc8075eef58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dce1fa7768c709b5322d4411994372413a2dff73">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b82ee632643df0709ee4e3d322775a2ad95c272/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_75343b23260b220bb4d369d4d9e91a6fbe03ec74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_1883ab8cb7f1968f021258dc0c3ce09ac0ffe113/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_bb37d8109c889417168a52da70267cf64eb1b347/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_db28f907e2c9be2c42ebdf638ed9939088314f74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_f9b7f1c3bcae267fd5862d046c3bf41b02162a35/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_239b58344be6587b67150ace6526e6b9db1233a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_3cb0b20811d7aa1b03eac2012f861da2418ae307/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_75e7c1cc8cf450e6d6e809d323d575a95b2f5b7c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_80d593d317a59928a166bc680f3d790b3241beef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_f26dc9675593f967efd219f897b3b224dbe3077b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_f732c066e40431821dcad9c935f4de61f1676734/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_d82c6d3bf5634206e2d54e88fedb225992f66358/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_7b3b41bb29ec0b109d920b92a42c01e34dfd696a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_955c6b57f43a04b8244322e8e436ce70f6e07c3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_41ccfa92b167d709195889c638933da463b03840/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_d077d069b612e0c72493d1e2089bf9b16c8f813f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_4eb2a529d10b9b7148a83699587544ae47fca88e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_5ed82fc53262f5e0eb0ba365c34be1187b5a7be4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_b6b0274f1cf990ab88c29c06bb3fa45437c10e27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_e2b8426c7d4c32e517bed03fb8eda5ada23ac9ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_e389bfd31471fdba873ce1e69ad04b8f09fc96dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_ed2e29dd811a784b03d4bbef988f655bf1bdd792/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_a72e29814c69c202102f45d124a0ea9a7c7b369a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_8614545af158dd2835ef6e9528f8603d61f74e9a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_a1a44a40ab4a2d3c86939f81c491fe2c8c3000da/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_ce81859f3ab3fe07dd23034533a11dcdc10894db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e6939ffe46e0c7c8bb19c0b38f4ac78ad837cf74">
+        <dex dex="/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b6793fe837c0bb1e6636993d1ebccf9320513932/classes.dex" />
+    </item>
+
+</items>

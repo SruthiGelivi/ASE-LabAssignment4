@@ -1,0 +1,7 @@
+#Wed Feb 15 23:52:52 CST 2017
+base.0=/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b82ee632643df0709ee4e3d322775a2ad95c272
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b6793fe837c0bb1e6636993d1ebccf9320513932/classes.dex
+base.1=/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b6793fe837c0bb1e6636993d1ebccf9320513932
+file.0=/Users/sruthigelivi/Desktop/CS5551-T4-SourceCode/Application/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7b82ee632643df0709ee4e3d322775a2ad95c272/classes.dex
