@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="attributions">Attributions</string>
+     <string name="formatted_place_data">
+        Name: %1$s\nAddress: %2$s\nPhone: %3$s\nWebsite: %4$s\nRating: %5$f\nId: %6$s\n
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
